@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">HomeWork</string>
+    <string name="press">Нажми</string>
+    <string name="pull">Потяни</string>
+    <string name="Text">Привет, мир!</string>
 </resources>
